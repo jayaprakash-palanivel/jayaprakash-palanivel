@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi 👋, I'm Jayaprakash.
 
-My name is Jayaprakash and I am a Java Full Stack Developer. 
+I am a Java Full Stack Developer. 
 
-You can find me on <a href="https://www.linkedin.com/in/jayaprakashpalanivel/" target="_blank">LinkedIn</a>.
+I completed my B.E. in Electronics and Instrumentation Engineering from Sri Sairam Engineering College, located in Chennai, in 2021.
+
 
 <b>Skills & Technologies:</b>
 <br>
@@ -19,6 +20,10 @@ You can find me on <a href="https://www.linkedin.com/in/jayaprakashpalanivel/" t
 <br>
 Contact: <a href = "mailto: jayaprakashpalanivel26@gmail.com">jayaprakashpalanivel26@gmail.com</a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jayaprakashpalanivel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayaprakashpalanivel" height="30" width="40" /></a>
+</p>
 
 <!--
 **jayaprakash-palanivel/jayaprakash-palanivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
