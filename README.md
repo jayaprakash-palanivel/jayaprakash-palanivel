@@ -2,7 +2,7 @@
 
 My name is Jayaprakash and I am a Java Full Stack Developer. 
 
-You can find me on <a href="www.linkedin.com/in/jayaprakashpalanivel">LinkedIn</a>.
+You can find me on <a href="https://www.linkedin.com/in/jayaprakashpalanivel/">LinkedIn</a>.
 
 <b>Skills & Technologies:</b>
 <br>
