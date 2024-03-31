@@ -2,7 +2,7 @@
 
 I am a <b>Microservice-Java Full Stack Developer</b> with experience in developing robust web applications using <b>Java, Spring, Hibernate, Microservices with Spring Boot, and Angular</b>. Additionally, I am experienced in CI/CD practices for efficient and seamless development processes. 
 
-I completed my B.E. in Electronics and Instrumentation Engineering from Sri Sairam Engineering College, located in Chennai, in 2021. Continuously, I have enhanced my skills based on current technology trends. This ongoing development ensures that I stay up-to-date with the latest advancements, enabling me to deliver innovative solutions and remain competitive in the ever-evolving field of software development.
+I completed my B.E. in Electronics and Instrumentation Engineering from Sri Sairam Engineering College, located in Chennai, in 2021. Continuously, I have enhanced my skills based on current technology trends. This ongoing development ensures that I stay up-to-date with the latest advancements, enabling me to deliver innovative solutions and remain competitive in the ever-evolving field of software development. 
 
 <b>Skills & Technologies:</b>
 <br>
