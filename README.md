@@ -1,11 +1,12 @@
- # Hi 👋 there, I'm Jayaprakash.
+# Hi 👋 there, I'm Jayaprakash.
 
 </br>
 
 [![](https://visitcount.itsvg.in/api?id=jayaprakash-palanivel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
-I am a <b>Microservice-Java Full Stack Developer</b> with experience in developing robust web applications using <b>Java, Spring, Hibernate, Microservices with Spring Boot, and Angular</b>. Additionally, I am experienced in CI/CD practices for efficient and seamless development processes.<br><br>I completed my B.E. in Electronics and Instrumentation Engineering from <b>Sri Sairam Engineering College</b>, located in Chennai, in 2021. Continuously, I have enhanced my skills based on current technology trends. This ongoing development ensures that I stay up-to-date with the latest advancements, enabling me to deliver innovative solutions and remain competitive in the ever-evolving field of software development.<br><br>
+I am a <b>Microservice-Java Full Stack Developer</b> with experience in developing robust web applications using <b>Java, Spring, Hibernate, Microservices with Spring Boot, and Angular</b>. Additionally, I am experienced in CI/CD practices for efficient and seamless development processes.<br><br>I completed my B.E. in Electronics and Instrumentation Engineering from <b>Sri Sairam Engineering College</b>, located in Chennai, in 2021. Continuously, I have enhanced my skills based on current technology trends. This ongoing development ensures that I stay up-to-date with the latest advancements, enabling me to deliver innovative solutions and remain competitive in the ever-evolving field of software development.
+<br><br>
 
 
 ## 🌐 Socials & Contact:
