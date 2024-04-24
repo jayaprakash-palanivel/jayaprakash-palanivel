@@ -1,5 +1,6 @@
-# Hi 👋 there, I'm Jayaprakash.
-
+<h1 align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3F00F7&random=false&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Jayaprakash." alt="Typing SVG" /></a>
+</h1>
 </br>
 
 [![](https://visitcount.itsvg.in/api?id=jayaprakash-palanivel&icon=0&color=0)](https://visitcount.itsvg.in)
