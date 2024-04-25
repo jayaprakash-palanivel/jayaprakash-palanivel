@@ -1,9 +1,10 @@
 <h1 align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3F00F7&random=false&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Jayaprakash." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=Hey%F0%9F%91%8B%2C+I'm+Jayaprakash.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 </br>
-
-[![](https://visitcount.itsvg.in/api?id=jayaprakash-palanivel&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=jayaprakash-palanivel&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
 ## 💫 About Me:
 I am a <b>Microservice-Java Full Stack Developer</b> with experience in developing robust web applications using <b>Java, Spring, Hibernate, Microservices with Spring Boot, and Angular</b>. Additionally, I am experienced in CI/CD practices for efficient and seamless development processes.<br><br>I completed my B.E. in Electronics and Instrumentation Engineering from <b>Sri Sairam Engineering College</b>, located in Chennai, in 2021. Continuously, I have enhanced my skills based on current technology trends. This ongoing development ensures that I stay up-to-date with the latest advancements, enabling me to deliver innovative solutions and remain competitive in the ever-evolving field of software development.
